@@ -1,6 +1,15 @@
 # HTML
 
-[TOC]
+# Table of contents
+
+- [HTML](#html)
+  - [Introduction to HTML5 Elements](#introduction-to-html5-elements)
+  - [Add Images to Your Website](#add-images-to-your-website)
+  - [Link to External Pages with Anchor Elements](#link-to-external-pages-with-anchor-elements)
+    - [Link to Internal Sections of a Page with Anchor Elements](#link-to-internal-sections-of-a-page-with-anchor-elements)
+  - [Create a Form Element](#create-a-form-element)
+    - [Add a Submit Button to a Form](#add-a-submit-button-to-a-form)
+    - [Use HTML5 to Require a Field](#use-html5-to-require-a-field)
 
 ## Introduction to HTML5 Elements
 
