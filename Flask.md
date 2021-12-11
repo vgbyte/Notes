@@ -1,6 +1,14 @@
 # Flask
 
-[TOC]
+# Table of contents
+
+- [Flask](#flask)
+  - [Virtual Environment](#virtual-environment)
+    - [Getting started with virtualenv](#getting-started-with-virtualenv)
+    - [Activating the virtual environment](#activating-the-virtual-environment)
+  - [Intro](#intro)
+  - [render_template](#render_template)
+  - [url_for](#url_for)
 
 ## Virtual Environment
 
