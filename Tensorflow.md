@@ -1,6 +1,29 @@
 # Tensorflow
 
-[TOC]
+# Table of contents
+
+- [Tensorflow](#tensorflow)
+  - [Tensors](#tensors)
+    - [About shapes](#about-shapes)
+    - [Operation](#operation)
+    - [Manipulating Shapes](#manipulating-shapes)
+  - [Algorithms](#algorithms)
+    - [Linear Regression](#linear-regression)
+      - [Feature Columns](#feature-columns)
+      - [The Training Process](#the-training-process)
+      - [Input Function](#input-function)
+      - [Creating the Model](#creating-the-model)
+      - [Training the Model](#training-the-model)
+      - [Predicting](#predicting)
+    - [Classification](#classification)
+      - [Input Function](#input-function)
+      - [Feature Columns](#feature-columns)
+      - [Building the Model](#building-the-model)
+      - [Training](#training)
+      - [Evaluation](#evaluation)
+      - [Predictions](#predictions)
+    - [Hidden Markov Models](#hidden-markov-models)
+      - [Building a model](#building-a-model)
 
 
 
